@@ -23,4 +23,4 @@ C# · ASP.NET Core · Entity Framework Core · Azure SQL · JavaScript · Azure 
   .....
 
 ## Autor
-Branko Alvarez · [LinkedIn]((https://www.linkedin.com/in/brankoalvarez/) · [TikTok](https://www.tiktok.com/@bamx.chile)
+Branko Alvarez · [LinkedIn](https://www.linkedin.com/in/brankoalvarez/) · [TikTok](https://www.tiktok.com/@bamx.chile)
